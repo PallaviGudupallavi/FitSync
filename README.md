@@ -14,11 +14,19 @@ FitSync AI is an **AI-powered gamified fitness web app** inspired by **Duolingo*
 
 ## 📸 Screenshots & Videos
 ### **Homepage**
-[Watch Video]("C:\Users\gudup\Downloads\WhatsApp Video 2025-02-28 at 10.22.29 PM.mp4")
+
+[Watch Video]("C:\Users\gudup\Videos\Screen Recordings\Screen Recording 2025-02-28
+
+https://github.com/user-attachments/assets/bbbac712-f65c-4ba6-989e-acc53ed72724
+
+ 215741.mp4")
+
 
 ### **Nutrition Section**
 
-[Watch Video]("C:\Users\gudup\Videos\Screen Recordings\Screen Recording 2025-02-28 215741.mp4")
+
+https://github.com/user-attachments/assets/0cd12834-d909-46c9-a72a-07b8ed2d851d
+
 
 ### **Training Section**
 ![Training](screenshots/train.png)

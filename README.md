@@ -9,7 +9,7 @@ FitSync AI is an **AI-powered gamified fitness web app** inspired by **Duolingo*
 - ✅ **Fitness League & Leaderboard** to track progress
 - ✅ **Animated Exercise Demonstrations** using **Lottie.js**
 - ✅ **AI-Generated Meal Plans** displayed dynamically
-- ✅ **Progress Rings & XP Levels** using **Chart.js**
+- ✅ **FitBot** - your fitness chatbot
 - ✅ **Firebase Integration** for real-time database functionality
 
 ## 📸 Screenshots & Videos

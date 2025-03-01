@@ -17,8 +17,6 @@ FitSync AI is an **AI-powered gamified fitness web app** inspired by **Duolingo*
 
 https://github.com/user-attachments/assets/bbbac712-f65c-4ba6-989e-acc53ed72724
 
- 215741.mp4")
-
 
 ### **Nutrition Section**
 

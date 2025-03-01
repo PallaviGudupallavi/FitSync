@@ -17,62 +17,53 @@ FitSync AI is an **AI-powered gamified fitness web app** inspired by **Duolingo*
 
 https://github.com/user-attachments/assets/bbbac712-f65c-4ba6-989e-acc53ed72724
 
-
 ### **Nutrition Section**
-
 
 https://github.com/user-attachments/assets/0cd12834-d909-46c9-a72a-07b8ed2d851d
 
-
 ### **Training Section**
-
 
 https://github.com/user-attachments/assets/80e45eeb-b58a-4063-b5db-360804b27515
 
 ### **FitBot**
 ![image](https://github.com/user-attachments/assets/d0669dbe-7cc7-4352-b70d-cfa97ca10aae)
 
-
-
 ## 🛠️ Tech Stack
-Frontend:
-✅ Streamlit – For the web-based UI and interactive elements
-✅ OpenCV – For capturing and processing video frames
-✅ Plotly – For data visualization and analytics
+**Frontend:**
+- ✅ Streamlit – For the web-based UI and interactive elements
+- ✅ OpenCV – For capturing and processing video frames
+- ✅ Plotly – For data visualization and analytics
 
-Backend & Computation:
-✅ Python – Core programming language
-✅ NumPy – For numerical calculations and interpolations
-✅ Math Library – For angle calculations using atan2 and degrees
+**Backend & Computation:**
+- ✅ Python – Core programming language
+- ✅ NumPy – For numerical calculations and interpolations
+- ✅ Math Library – For angle calculations using atan2 and degrees
 
-Computer Vision & AI:
-✅ PoseDetector (likely using Mediapipe or OpenCV) – For pose estimation and detecting key body points
+**Computer Vision & AI:**
+- ✅ PoseDetector (likely using Mediapipe or OpenCV) – For pose estimation and detecting key body points
 
-Hardware & Integrations:
-✅ Webcam (via OpenCV) – Capturing real-time exercise data
+**Hardware & Integrations:**
+- ✅ Webcam (via OpenCV) – Capturing real-time exercise data
 
 ## 🔧 Setup & Installation
-📌 Setup & Installation
-🔧 Prerequisites
+
+### 📌 Prerequisites
 Ensure you have the following installed:
+- 🐍 Python 3.8+
+- 📦 pip (Python package manager)
+- 💻 Git (optional, for cloning)
+- 📂 Virtual Environment (recommended)
 
-🐍 Python 3.8+
-📦 pip (Python package manager)
-💻 Git (optional, for cloning)
-📂 Virtual Environment (recommended)
-🚀 Installation Steps
-1️⃣ Clone the Repository (if using Git)
+### 🚀 Installation Steps
 
-bash
-Copy
-Edit
+1️⃣ **Clone the Repository (if using Git)**
+```bash
 git clone https://github.com/your-username/FitnessTrainer.git
 cd FitnessTrainer
-2️⃣ Create & Activate a Virtual Environment
+```
 
-bash
-Copy
-Edit
+2️⃣ **Create & Activate a Virtual Environment**
+```bash
 # Create virtual environment
 python -m venv venv
 
@@ -81,38 +72,46 @@ venv\Scripts\activate
 
 # Activate (Mac/Linux)
 source venv/bin/activate
-3️⃣ Install Dependencies
+```
 
-bash
-Copy
-Edit
+3️⃣ **Install Dependencies**
+```bash
 pip install -r requirements.txt
-4️⃣ Set Up Secrets (if applicable)
+```
 
-Add API keys or credentials in secrets.toml (if needed).
-5️⃣ Run the Application
+4️⃣ **Set Up Secrets (if applicable)**
+Add API keys or credentials in `secrets.toml` (if needed).
 
-bash
-Copy
-Edit
+5️⃣ **Run the Application**
+```bash
 python styles/1_🏠_HomePage.py
-6️⃣ Using the Features
+```
 
-📚 Tutorials: python pages/2_📘_Tutorials.py
-🏋️ Train Mode: python pages/3_🏃_Train.py
-🤖 Chatbot: python pages/4_🤖_Chatbot.py
-🍎 Nutrition Guide: python pages/5_🍎_Nutrion.py
-🎯 Additional Notes
+### 🎯 Using the Features
+```bash
+# Tutorials
+python pages/2_📘_Tutorials.py
+
+# Train Mode
+python pages/3_🏃_Train.py
+
+# Chatbot
+python pages/4_🤖_Chatbot.py
+
+# Nutrition Guide
+python pages/5_🍎_Nutrition.py
+```
+
+### 🎯 Additional Notes
 To deactivate the virtual environment, run:
-bash
-Copy
-Edit
+```bash
 deactivate
+```
 If you face missing dependencies, manually install them:
-bash
-Copy
-Edit
+```bash
 pip install some_package_name
+```
+
 ## 🚀 Deployment
 ### **GitHub Pages**
 1. Push your code to GitHub.

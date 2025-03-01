@@ -52,44 +52,72 @@ Hardware & Integrations:
 ✅ Webcam (via OpenCV) – Capturing real-time exercise data
 
 ## 🔧 Setup & Installation
-### 1️⃣ Clone the Repository
-```sh
- git clone https://github.com/your-username/FitSync-AI.git
- cd FitSync-AI
-```
+📌 Setup & Installation
+🔧 Prerequisites
+Ensure you have the following installed:
 
-### 2️⃣ Install Dependencies (if required)
-```sh
- npm install  # If using additional packages
-```
+🐍 Python 3.8+
+📦 pip (Python package manager)
+💻 Git (optional, for cloning)
+📂 Virtual Environment (recommended)
+🚀 Installation Steps
+1️⃣ Clone the Repository (if using Git)
 
-### 3️⃣ Configure Firebase
-1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/)
-2. Add Firebase SDK to your project and update `firebase-config.js` with your API keys.
+bash
+Copy
+Edit
+git clone https://github.com/your-username/FitnessTrainer.git
+cd FitnessTrainer
+2️⃣ Create & Activate a Virtual Environment
 
-### 4️⃣ Run the Project Locally
-Simply open `index.html` in your browser or use a live server extension.
+bash
+Copy
+Edit
+# Create virtual environment
+python -m venv venv
 
+# Activate (Windows)
+venv\Scripts\activate
+
+# Activate (Mac/Linux)
+source venv/bin/activate
+3️⃣ Install Dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+4️⃣ Set Up Secrets (if applicable)
+
+Add API keys or credentials in secrets.toml (if needed).
+5️⃣ Run the Application
+
+bash
+Copy
+Edit
+python styles/1_🏠_HomePage.py
+6️⃣ Using the Features
+
+📚 Tutorials: python pages/2_📘_Tutorials.py
+🏋️ Train Mode: python pages/3_🏃_Train.py
+🤖 Chatbot: python pages/4_🤖_Chatbot.py
+🍎 Nutrition Guide: python pages/5_🍎_Nutrion.py
+🎯 Additional Notes
+To deactivate the virtual environment, run:
+bash
+Copy
+Edit
+deactivate
+If you face missing dependencies, manually install them:
+bash
+Copy
+Edit
+pip install some_package_name
 ## 🚀 Deployment
 ### **GitHub Pages**
 1. Push your code to GitHub.
 2. Go to **Settings → Pages**
 3. Set the branch to `main` and save.
-
-### **Firebase Hosting**
-1. Install Firebase CLI:
-```sh
- npm install -g firebase-tools
-```
-2. Login and initialize Firebase:
-```sh
- firebase login
- firebase init
-```
-3. Deploy:
-```sh
- firebase deploy
-```
 
 ## 📬 Contact
 For queries or contributions, reach out to **Pallavi Gudupalli** at [your-email@example.com](mailto:your-email@example.com).

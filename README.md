@@ -31,6 +31,8 @@ https://github.com/user-attachments/assets/0cd12834-d909-46c9-a72a-07b8ed2d851d
 
 https://github.com/user-attachments/assets/80e45eeb-b58a-4063-b5db-360804b27515
 
+### **FitBot**
+![image](https://github.com/user-attachments/assets/d0669dbe-7cc7-4352-b70d-cfa97ca10aae)
 
 
 

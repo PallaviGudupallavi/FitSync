@@ -111,12 +111,3 @@ If you face missing dependencies, manually install them:
 ```bash
 pip install some_package_name
 ```
-
-## 🚀 Deployment
-### **GitHub Pages**
-1. Push your code to GitHub.
-2. Go to **Settings → Pages**
-3. Set the branch to `main` and save.
-
-## 📬 Contact
-For queries or contributions, reach out to **Pallavi Gudupalli** at [your-email@example.com](mailto:your-email@example.com).
